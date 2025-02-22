@@ -1,0 +1,14 @@
+{
+  "name": "medapp",
+  "version": "1.0.0",
+  "description": "Mini-Projeto da disciplina de Programação II do curso de bacharelado em Engenharia de Softawre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitor Sales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
