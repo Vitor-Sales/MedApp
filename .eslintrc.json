@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "quotes": ["error", "double"]
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
